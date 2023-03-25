@@ -1,1 +1,1 @@
-# dotfiles
+my archlinux setup
